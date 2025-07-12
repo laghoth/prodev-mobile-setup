@@ -7,10 +7,10 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "green",
+        backgroundColor: "yellow",
       }}
     >
-      <Text>first app</Text>
+      <Text>first app created</Text>
     </View>
   );
 }
